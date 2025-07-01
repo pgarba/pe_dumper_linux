@@ -12,7 +12,7 @@ A tool to extract and analyze Portable Executable (PE) files from processes runn
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pe_dumper_linux.git
+git clone https://github.com/pgarba/pe_dumper_linux.git
 cd pe_dumper_linux
 ```
 
